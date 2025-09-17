@@ -1,0 +1,24 @@
+{
+  "name": "reactbasic2",
+  "version": "1.0.0",
+  "description": "New learning",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prashant1b/React-first.git"
+  },
+  "author": "Prashant Bhardwaj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prashant1b/React-first/issues"
+  },
+  "homepage": "https://github.com/Prashant1b/React-first#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  }
+}
